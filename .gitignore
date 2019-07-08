@@ -1,0 +1,7 @@
+**/*.pyc
+**/__pycache__
+
+seacliff.egg-info
+build
+dist
+docs/*.html
