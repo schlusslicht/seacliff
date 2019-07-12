@@ -9,7 +9,7 @@ with open('LICENSE') as f:
 setup(
     author='Philip Schildkamp',
     author_email='philip.schildkamp@uni-koeln.de',
-    description='seak life within the field of digital humanities',
+    description='seek life within the field of digital humanities',
     entry_points={'console_scripts': ['seacliff = seacliff.seacliff:main']},
     license=legal,
     long_description=readme,
